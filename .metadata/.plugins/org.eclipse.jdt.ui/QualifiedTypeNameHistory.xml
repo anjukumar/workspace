@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<qualifiedTypeNameHistroy>
+<fullyQualifiedTypeName name="customTools.DBUser"/>
+<fullyQualifiedTypeName name="customTools.DBUserUtil"/>
+<fullyQualifiedTypeName name="model.Gdgrade"/>
+<fullyQualifiedTypeName name="customTools.DBGradeUtil"/>
+<fullyQualifiedTypeName name="Tool.Restaurant"/>
+<fullyQualifiedTypeName name="Tool.Review"/>
+<fullyQualifiedTypeName name="Tool.Ruser"/>
+<fullyQualifiedTypeName name="Util.DbUser"/>
+<fullyQualifiedTypeName name="Util.DbReview"/>
+<fullyQualifiedTypeName name="Util.DbRestaurant"/>
+<fullyQualifiedTypeName name="customTools.DbUtil"/>
+<fullyQualifiedTypeName name="model.Daltontransaction"/>
+<fullyQualifiedTypeName name="customTools.DbTransactions"/>
+<fullyQualifiedTypeName name="customTools.DbAccount"/>
+<fullyQualifiedTypeName name="model.Daltoncustomer"/>
+<fullyQualifiedTypeName name="customTools.DbCustomers"/>
+<fullyQualifiedTypeName name="model.Samazonproduct"/>
+<fullyQualifiedTypeName name="model.Samazoncart"/>
+<fullyQualifiedTypeName name="customTools.DbProductUtil"/>
+<fullyQualifiedTypeName name="customTools.DbCartUtil"/>
+<fullyQualifiedTypeName name="com.sun.xml.internal.messaging.saaj.packaging.mime.MessagingException"/>
+<fullyQualifiedTypeName name="UserData.ManageStudent"/>
+<fullyQualifiedTypeName name="UserData.ManageUser"/>
+<fullyQualifiedTypeName name="model.Dcuaccount"/>
+<fullyQualifiedTypeName name="model.Dcutransaction"/>
+<fullyQualifiedTypeName name="customtools.ManageAccount"/>
+<fullyQualifiedTypeName name="java.util.Date"/>
+<fullyQualifiedTypeName name="customtools.ManageTransaction"/>
+<fullyQualifiedTypeName name="model.Dcuuser"/>
+<fullyQualifiedTypeName name="Tools.ManageJob"/>
+<fullyQualifiedTypeName name="Tools.ManageApplication"/>
+<fullyQualifiedTypeName name="model.Bpapplication"/>
+<fullyQualifiedTypeName name="model.Bpstage"/>
+<fullyQualifiedTypeName name="Tools.ManageStage"/>
+<fullyQualifiedTypeName name="Tools.ManageQuestions"/>
+<fullyQualifiedTypeName name="model.Bpquestion"/>
+<fullyQualifiedTypeName name="java.math.BigDecimal"/>
+</qualifiedTypeNameHistroy>

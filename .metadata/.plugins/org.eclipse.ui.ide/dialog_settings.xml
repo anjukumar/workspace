@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<section name="Workbench">
+	<section name="ExternalProjectImportWizard">
+		<item value="false" key="WizardProjectsImportPage.STORE_ARCHIVE_SELECTED"/>
+		<item value="false" key="WizardProjectsImportPage.STORE_COPY_PROJECT_ID"/>
+		<item value="false" key="WizardProjectsImportPage.STORE_NESTED_PROJECTS"/>
+		<list key="WizardProjectsImportPage.STORE_DIRECTORIES">
+			<item value="/home/oracle/workspace/HCZ"/>
+			<item value="/home/oracle/workspace/BusinessProcessApplication"/>
+			<item value="/home/oracle/workspace/DaltonCreditUnion"/>
+			<item value="/home/oracle/workspace/Harrison"/>
+			<item value="/home/oracle/workspace/Bullhorn"/>
+		</list>
+		<list key="WizardProjectsImportPage.STORE_ARCHIVES">
+			<item value=""/>
+		</list>
+	</section>
+	<section name="NewWizardAction">
+	</section>
+	<section name="CleanDialogSettings">
+		<item value="567" key="DIALOG_WIDTH"/>
+		<item value="true" key="BUILD_NOW"/>
+		<item value="false" key="BUILD_ALL"/>
+		<item value="230" key="DIALOG_Y_ORIGIN"/>
+		<item value="469" key="DIALOG_HEIGHT"/>
+		<item value="679" key="DIALOG_X_ORIGIN"/>
+		<item value="false" key="TOGGLE_SELECTED"/>
+	</section>
+</section>

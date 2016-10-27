@@ -1,0 +1,20 @@
+Bpjob
+	column: jobtype
+	values: technical , nontechnical
+
+Bpapplication
+    column: Satus
+    values: processing , hired , declined
+ 
+Bpemployer
+	Column: role
+	values: complianceofficer , hrassistant , hrspecialist , healthcarespecialist , hrmanager , hiringmanager , interviewleader	
+		     
+BpStage
+    column: stagename
+    values: nationality , history , degree , drugStandard, drugPot, drugAlchol , veteran , hrinterview , secondinterview , groupinterview , codingtest 
+    
+    column: stageresult
+    values: inprogress , failed , passed
+    
+     && (  jobtype.equalsIgnoreCase("Technical")||jobtype.equalsIgnoreCase("Management")||jobtype.equalsIgnoreCase("Consulting")  )

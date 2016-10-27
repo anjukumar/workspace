@@ -1,0 +1,156 @@
+<!--Author: W3layouts
+Author URL: http://w3layouts.com
+License: Creative Commons Attribution 3.0 Unported
+License URL: http://creativecommons.org/licenses/by/3.0/
+-->
+<!DOCTYPE HTML>
+<html>
+<head>
+<title>Allied a corporate Category Flat Bootstrap Responsive  Website Template | Home :: w3layouts</title>
+<link href="css/bootstrap.css" rel="stylesheet" type="text/css" media="all">
+<!-- jQuery (necessary for Bootstrap's JavaScript plugins) -->
+<!-- Custom Theme files -->
+<link href="css/style.css" rel="stylesheet" type="text/css" media="all"/>
+<!-- Custom Theme files -->
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+<meta name="keywords" content="Allied  Responsive web template, Bootstrap Web Templates, Flat Web Templates, Android Compatible web template, 
+Smartphone Compatible web template, free webdesigns for Nokia, Samsung, LG, SonyEricsson, Motorola web design" />
+<script type="application/x-javascript"> addEventListener("load", function() { setTimeout(hideURLbar, 0); }, false); function hideURLbar(){ window.scrollTo(0,1); } </script>
+<!--Google Fonts-->
+<link href='//fonts.googleapis.com/css?family=Roboto:400,500,700' rel='stylesheet' type='text/css'>
+<link href='//fonts.googleapis.com/css?family=Ubuntu+Condensed' rel='stylesheet' type='text/css'>
+<!--google fonts-->
+<script src="js/jquery-1.11.0.min.js"></script>
+<script src="js/bootstrap.min.js"></script>
+
+</head>
+<body>
+<!--header-top start here-->
+<div class="top-header">
+	<div class="container">
+		<div class="top-header-main">
+			<div class="col-md-8 header-address">
+				<ul>
+					<li><span class="phone"> </span> <h6>(220) 280-31589</h6></li>
+					<li><span class="email"> </span><h6><a href="mailto:info@example.com">Youremail@gmail.com</a></h6></li>
+				</ul>
+			</div>
+			<div class="col-md-4 top-social">
+			    <ul>
+			    	<li><a href="#"><span class="fb"> </span></a></li>
+			    	<li><a href="#"><span class="tw"> </span></a></li>
+			    	<li><a href="#"><span class="in"> </span></a></li>
+			    	<li><a href="#"><span class="gmail"> </span></a></li>
+			    </ul>
+			</div>
+			
+		  <div class="clearfix"> </div>
+		</div>
+	</div>
+</div>
+<!--header-top end here-->
+<!--header start here-->
+	<!-- NAVBAR
+		================================================== -->
+<div class="header w3l">
+	<div class="fixed-header">	
+
+		    <div class="navbar-wrapper">
+		      <div class="container">
+		        <nav class="navbar navbar-inverse navbar-static-top">
+		             <div class="navbar-header">
+			              <button type="button" class="navbar-toggle collapsed" data-toggle="collapse" data-target="#navbar" aria-expanded="false" aria-controls="navbar">
+			                <span class="sr-only">Toggle navigation</span>
+			                <span class="icon-bar"></span>
+			                <span class="icon-bar"></span>
+			                <span class="icon-bar"></span>
+			              </button>
+			              <div class="logo">
+			                   <h1><a class="navbar-brand" href="index.html">Allied</a></h1>
+			              </div>
+			          </div>
+		            <div id="navbar" class="navbar-collapse collapse">
+		            <nav class="cl-effect-16" id="cl-effect-16">
+		              <ul class="nav navbar-nav">
+		               <li><a class="active" href="index.html" data-hover="Home">Home</a></li>
+		                <li><a href="about.html" data-hover="About">About</a></li>
+						<li><a href="services.html" data-hover="Services">Services</a></li>
+						<li><a href="shortcodes.html" data-hover="Short Codes">Short Codes</a></li>
+						<li><a href="gallery.html" data-hover="Gallery">Gallery</a></li>
+						<li><a href="contact.html" data-hover="Contact">Contact</a></li>						
+		              </ul>
+		            </nav>
+
+		            </div>
+		            <div class="clearfix"> </div>
+		             </nav>
+		          </div>
+		           <div class="clearfix"> </div>
+		    </div>
+	 </div>
+</div>
+<!--header end here-->
+<!--banner  start hwew-->
+<div class="banner">
+	<div class="container">
+		<div class="banner-main">
+			<h4>Welcome To Our Design</h4>
+			<h2>Corporate  Agency</h2>		
+			<span class="ban-line"> </span>	
+			<p>Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's.</p>
+		    <a href="contact.html">Get in Touch</a>
+		</div>
+    </div>
+</div>
+<!--BANNER END HERE-->
+
+
+
+
+
+
+
+
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+
+
+<!--news lettter start here-->
+<div class="newsletter">
+	<div class="container">
+		<div class="newsletter-wthree">
+			<h3>Sign up For Newsletter</h3>
+			<p>Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium doloremque laudantium, totam rem aperiam</p>
+			<form action="#" method="post">
+				<input type="text" placeholder="Your Mail" name="Your Mail" required="">
+				<input type="submit"  value="Sign Up">
+			</form>
+		</div>
+	</div>
+</div>
+<!--news letter end here-->
+<!--copy rights start here-->
+<div class="copy-rights">
+	<div class="container">
+		<div class="copy-rights-main">
+			<ul class="ftr-icons">
+				<li><a class="fa" href="#"> </a></li>
+				<li><a class="tw" href="#"> </a></li>
+				<li><a class="g" href="#"> </a></li>
+			</ul>
+		</div>
+	</div>
+</div>
+<!--copy rights end here-->
+</body>
+</html>
+
+      	 

@@ -1,0 +1,48 @@
+<%@ page language="java" contentType="text/html; charset=UTF-8"
+    pageEncoding="UTF-8"%>
+<!DOCTYPE html PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN" "http://www.w3.org/TR/html4/loose.dtd">
+<html>
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
+<title>Insert title here</title>
+</head>
+<body>
+
+
+<jsp:include page="Header.jsp"></jsp:include>
+
+	<!-- Banner -->
+	<div class="banner">
+		<h1>Confirmation</h1>
+	</div>
+
+	<!-- //Banner -->
+	<br><br>
+	
+	
+	 <table>
+<center> 	
+   
+   <tr>  
+   <h3>
+   <th>Application ID</th>
+   <th>Applicant Name</th>
+    <th>Status/th>
+
+       </h3>
+   
+   </tr>
+
+
+
+			<tr>
+				
+					<td><c:out value=" ${application.bpapplicationid}" /></td>
+					<td><c:out value=" ${application.fullname}" /></td>
+					<td><c:out value="${application.status}" /></td>
+
+					<td>
+	
+	
+</body>
+</html>

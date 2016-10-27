@@ -1,0 +1,29 @@
+package Tools;
+
+import java.util.List;
+
+import javax.persistence.EntityManager;
+import javax.persistence.NoResultException;
+import javax.persistence.TypedQuery;
+
+import model.Bpquestion;
+
+public class ManageQuestions {
+	public static List<Bpquestion> getStagesByTitle(String tittle,String role) {
+		EntityManager em = DBUtil.getEmFactory().createEntityManager();
+		String qString = "Select u from Bpquestion u where tittle = :tittle AND role = :role";
+		TypedQuery<Bpquestion> q = em.createQuery(qString, Bpquestion.class);
+		List<Bpquestion> stages = null;
+		q.setParameter("tittle", tittle);
+		q.setParameter("role", role);
+		try {
+			stages = q.getResultList();
+		} catch (NoResultException e) {
+			System.out.println(e);
+		} finally {
+			em.close();
+		}
+		return stages;
+
+	}
+}

@@ -1,0 +1,48 @@
+<%@ page language="java" contentType="text/html; charset=UTF-8"
+    pageEncoding="UTF-8"%>
+        <%@ taglib prefix="c" uri="http://java.sun.com/jsp/jstl/core"%>
+<%@ taglib prefix="fmt" uri="http://java.sun.com/jsp/jstl/fmt"%>
+<%@ taglib prefix="section" uri="http://java.sun.com/jsp/jstl"%>
+<!DOCTYPE html PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN" "http://www.w3.org/TR/html4/loose.dtd">
+<html>
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
+<title>Insert title here</title>
+</head>
+<body>
+<jsp:include page="Header.jsp"></jsp:include>
+<!--banner-->
+<div class="banner">
+<div class="container">
+<section class="rw-wrapper">
+				<h1 class="rw-sentence"> </h1>
+					<span>Amazing Samazon</span>
+					
+					<div class="rw-words rw-words-1">
+						<span>Fashion</span>
+						<span>Beauty</span>
+						<span>Accessories</span>
+						<span>Gifts</span>
+						<span>Essentials</span>
+						<span>And SO MUCH MORE</span>
+					</div>
+				
+				
+					<div class="rw-words rw-words-2">
+						<span>Everything you need</span>
+						<span>All in one place</span>
+						<span>The art of making Happy discoveries</span>
+					
+					</div>
+		
+			</section>
+			</div>
+		<br><br><br><br><br>
+			<center><h1><a href="ProductList.jsp" class=" hvr-skew-backward">Click here to explore</a></h1>	</center>
+</div>
+
+
+
+	<jsp:include page="Footer.jsp"></jsp:include>
+</body>
+</html>
